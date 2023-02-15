@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.fluid{
+	background-color:blue;
+	display:flex;
+	flex-flow:row wrap;
+}
+.row1{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-evenly;
+	
+}
+.row1-content{
+	margin:2px
+}
+.row1-content img{
+	height:50px
+}
